@@ -16,6 +16,6 @@ git init
 git add -A
 git commit -m "deploy"
 
-git push -f git@github.com:Kessir/taxcalculatorgh.git main:gh-pages
+git push -f git@github.com:FelixAshong/Ghana-2024--Tax-Calculator.git main:gh-pages
 
 cd -

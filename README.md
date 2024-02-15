@@ -3,7 +3,6 @@ Ghana has a progressive income tax which is not easy to calculate. This tool mak
 
 Built with [VueJS](https://vuejs.org) and `TailwindCss`
 
-Available at http://kessir.github.io/taxcalculatorgh
 
 ## Project Setup
 
