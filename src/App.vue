@@ -57,13 +57,13 @@ const taxResult = computed(() => {
     <hr />
     <footer id="footer" class="text-gray-600">
       <div class="text-center mt-4">
-        Disclaimer: We do our best to ensure the accuracy of this tool but we cannot be held
+        Disclaimer: I do my best to ensure the accuracy of this tool but i cannot be held
         responsible for any errors.
       </div>
       <div class="text-center mt-4">
         Send <strong>feedback</strong> and suggestions to
-        <a class="underline underline-offset-2" target="_blank" href="mailto:tax.calculator@kessir.com?subject=Tax%20calculator"
-        >tax.calculator@kessir.com</a
+        <a class="underline underline-offset-2" target="_blank" href="mailto:felixashong4@gmail.com?subject=Tax%20calculator"
+        >felixashong4@gmail.com</a
         >
       </div>
 
