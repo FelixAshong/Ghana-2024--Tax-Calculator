@@ -5,7 +5,7 @@
     </div>
     <div class=" flex justify-center space-x-3 mt-2 text-[#5764c6]">
         <a
-          href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fkessir.github.io%2Ftaxcalculatorgh&t=Compute%20take-home%20income%2C%20income%20tax%20and%20SSNIT"
+          href=""
           title="Share on Facebook"
           target="_blank"
         >
@@ -25,7 +25,7 @@
           </svg>
         </a>
         <a
-          href="https://twitter.com/intent/tweet?source=https%3A%2F%2Fkessir.github.io%2Ftaxcalculatorgh&text=A%20tool%20to%20compute%20take-home%20income%2C%20income%20tax%20and%20SSNIT:%20https%3A%2F%2Fkessir.github.io%2Ftaxcalculatorgh&via=TaxCalculatorGh"
+          href=""
           target="_blank"
           title="Tweet"
         >
@@ -45,7 +45,7 @@
           </svg>
         </a>
         <a
-          href="mailto:?subject=A%20tool%20to%20compute%20take-home%20income%2C%20income%20tax%20and%20SSNIT&body=This%20tool%20helps%20compute%20your%20take-home%20income%2C%20income%20tax%20and%20SSNIT%20contribution%20based%20on%20your%20gross%20income.:%20https%3A%2F%2Fkessir.github.io%2Ftaxcalculatorgh"
+          href=""
           target="_blank"
           title="Send email"
         >
